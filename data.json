@@ -4,6 +4,17 @@
 			"dailyconfirmed": "1",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
+			"date": "3 September 2021",
+			"dateymd": "2020-01-30",
+			"totalconfirmed": "3,29,43,993",
+			"totaldeceased": "4,40,237",
+			"totalrecovered": "3,20,90,785",
+			"totalactive":"4,00,151"
+		},
+		{
+			"dailyconfirmed": "1",
+			"dailydeceased": "0",
+			"dailyrecovered": "0",
 			"date": "30 January 2020",
 			"dateymd": "2020-01-30",
 			"totalconfirmed": "1",
